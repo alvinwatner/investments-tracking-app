@@ -7,10 +7,10 @@ In this technical test, I demonstrated a broad landscape of frontend skills rang
 
 In this particular repository, I showcased my Flutter technical skills with scalability and maintainability in mind, highlighting the following aspects:
 
-1. The usage of Bloc for state management.
-2. The implementation of Clean Architecture as proposed by Robert C. Martin.
-3. The ability to adjust to different technical environments.
-4. Knowledge of clean coding principles.
+1. The implementation of Clean Architecture as proposed by Robert C. Martin.
+2. The ability to adjust to different technical environments.
+3. Knowledge of clean coding principles.
+4. The usage of Bloc for state management.
 5. Best practices in UI/UX implementation, including configuring the color scheme and text theme, and utilizing a variety of Flutter widgets such as Chips, ChoiceChips, TabBars, and the newest widget, Gap.
 
 ## Demo
