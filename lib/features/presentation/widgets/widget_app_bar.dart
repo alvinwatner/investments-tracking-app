@@ -16,6 +16,7 @@ class WidgetAppBar extends StatelessWidget implements PreferredSizeWidget {
     return AppBar(
       backgroundColor: Colors.white,
       elevation: 0,
+      centerTitle: true,
       title: RichText(
         text: TextSpan(
           text: 'In',
