@@ -45,7 +45,7 @@ class _AppState extends State<App> {
           cursorColor: FlavorConfig.instance?.colorAccent,
         ),
       ),
-      title: FlavorConfig.isDevelopment() ? 'Dev Pokemons' : 'Pokemons',
+      title: FlavorConfig.isDevelopment() ? 'Dev InAI' : 'InAI',
       home: const PortfolioDashboardPage(),
       onGenerateRoute: (settings) => AppRoute.generateRoute(settings),
       builder: (context, child) {
