@@ -1,11 +1,17 @@
 # Summary
 
 
-In this technical test, I demonstrated a broad landscape of frontend skills ranging from web-desktop, mobile to Android & iOS mobile applications. I believe I would be a valuable asset to Packform, allowing the company to focus more on business aspects.
+In this technical test, I demonstrated a broad landscape of frontend skills, covering web, mobile, Android, and iOS applications. I believe my expertise can significantly contribute to Packform, allowing the company to focus more on business aspects.
 
-## Packform Technical Test (Flutter)
+## Packform Technical Test (Web, Mobile, Android, & iOS)
 
-In this particular repository, I showcased my Flutter technical skills with scalability and maintainability in mind, highlighting the following aspects:
+## Web and Mobile
+
+The web and mobile versions were built using the popular React.JS framework, Next.JS. You can find the repository [here](https://github.com/alvinwatner/investments-tracking-app-nextjs).
+
+## Android and iOS
+
+The Android and iOS versions were built with Flutter, a widely-used cross-platform framework. You can find the Android `apk` at the "Additional Link" section. In this repository, I showcased my Flutter technical skills with scalability and maintainability in mind. Key aspects include:
 
 1. The implementation of Clean Architecture as proposed by Robert C. Martin.
 2. The ability to adjust to different technical environments.
@@ -26,6 +32,7 @@ Steps:
 * `flutter run`
 
 ## Additional Link :
-* figma : [link](https://www.figma.com/design/IqZB4R29x3E9QBVtvxVuOC/Frontend-test-task?node-id=4271-13379&t=AdHZKEBQm3PjxiRA-1)
+* Figma design : [link](https://www.figma.com/design/IqZB4R29x3E9QBVtvxVuOC/Frontend-test-task?node-id=4271-13379&t=AdHZKEBQm3PjxiRA-1)
 * APK : [link](https://drive.google.com/drive/folders/1u4P0e-RdNEEtSoJeOVLtedP4wGEVivma?usp=sharing)
+* Web version : [link](https://github.com/alvinwatner/investments-tracking-app-nextjs)
 
