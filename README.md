@@ -1,7 +1,7 @@
 # Summary
 
 
-In this technical test, I demonstrated a broad landscape of frontend skills, covering web, mobile, Android, and iOS applications. I believe my expertise can significantly contribute to Packform, allowing the company to focus more on business aspects.
+In this technical test, I demonstrated a broad landscape of frontend skills, covering web, mobile, Android, and iOS applications. Additionally, I designed the desktop version UI to showcase my UI/UX designing skills. I believe my expertise can significantly contribute to Packform, allowing the company to focus more on business aspects.
 
 ## Packform Technical Test (Web, Mobile, Android, & iOS)
 
